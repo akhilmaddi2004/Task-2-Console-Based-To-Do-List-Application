@@ -42,7 +42,7 @@ This is a simple Python To-Do List app that stores tasks in a text file so they 
 📸 Screenshots
 
 1. todo.py screenshot
-![screenshot](https://github.com/akhilmaddi2004/Task-2-Console-Based-To-Do-List-Application/blob/main/Task_2_Todo_App/Screenshots/todo_screenshot.png )
+![screenshot](https://github.com/akhilmaddi2004/Task-2-Console-Based-To-Do-List-Application/blob/main/Task_2_Todo_App/Screenshots/todo_screenshot.png)
 
 2. tasks preview after appending
 ![screenshot](https://github.com/akhilmaddi2004/Task-2-Console-Based-To-Do-List-Application/blob/main/Task_2_Todo_App/Screenshots/tasks_screenshot.png)
