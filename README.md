@@ -1,46 +1,36 @@
-📌 To-Do List Application (Console Based)
+## 📌 To-Do List Application (Console Based)
 
 This is a simple Python To-Do List app that stores tasks in a text file so they remain saved even after the program exits.
 
-⭐ Features
+## ⭐ Features
 
-Add tasks
+- Add tasks
+- View tasks
+- Remove tasks
+- Mark tasks as completed
+- Clear all tasks
+- Auto-save using a text file
 
-View tasks
+## ⚙️ How It Works
 
-Remove tasks
+- Tasks are stored in tasks.txt.
+- The app loads all tasks when it starts.
+- It automatically saves tasks when you exit.
+- All actions run through the terminal menu.
 
-Mark tasks as completed
+## ▶️ How to Run
 
-Clear all tasks
+1. Open the terminal inside the project folder.
+2. Run:
 
-Auto-save using a text file
+- python todo.py
 
-⚙️ How It Works
+## 📁 Files
 
-Tasks are stored in tasks.txt.
+- todo.py – Main program
+- tasks.txt – Auto-generated task storage file
 
-The app loads all tasks when it starts.
-
-It automatically saves tasks when you exit.
-
-All actions run through the terminal menu.
-
-▶️ How to Run
-
-Open the terminal inside the project folder.
-
-Run:
-
-python todo.py
-
-📁 Files
-
-todo.py – Main program
-
-tasks.txt – Auto-generated task storage file
-
-🧾 Sample Menu
+## 🧾 Sample Menu
 ===== TO-DO LIST MENU =====
 1. View Tasks
 2. Add Task
@@ -51,6 +41,17 @@ tasks.txt – Auto-generated task storage file
 
 📸 Screenshots
 
-Add your screenshots here using markdown:
+1. todo.py screenshot
+![screenshot](https://github.com/akhilmaddi2004/Task-2-Console-Based-To-Do-List-Application/blob/main/Task_2_Todo_App/Screenshots/todo_screenshot.png )
 
-![screenshot](image-link-here)
+2. tasks preview after appending
+![screenshot](https://github.com/akhilmaddi2004/Task-2-Console-Based-To-Do-List-Application/blob/main/Task_2_Todo_App/Screenshots/tasks_screenshot.png)
+
+3. output screenshot 1 
+![screenshot](https://github.com/akhilmaddi2004/Task-2-Console-Based-To-Do-List-Application/blob/main/Task_2_Todo_App/Screenshots/output_ss_1.png )
+
+4. output screenshot 2 
+![screenshot](https://github.com/akhilmaddi2004/Task-2-Console-Based-To-Do-List-Application/blob/main/Task_2_Todo_App/Screenshots/output_ss_2.png )
+
+5. output screenshot 3 
+![screenshot](https://github.com/akhilmaddi2004/Task-2-Console-Based-To-Do-List-Application/blob/main/Task_2_Todo_App/Screenshots/output_ss_3.png )
