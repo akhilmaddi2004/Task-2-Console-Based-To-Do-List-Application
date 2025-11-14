@@ -1,8 +1,8 @@
-To-Do List Application (Console Based)
+📌 To-Do List Application (Console Based)
 
-This is a simple Python to-do list app that stores tasks in a text file so they stay saved even after the program exits.
+This is a simple Python To-Do List app that stores tasks in a text file so they remain saved even after the program exits.
 
-Features
+⭐ Features
 
 Add tasks
 
@@ -16,29 +16,31 @@ Clear all tasks
 
 Auto-save using a text file
 
-How It Works
+⚙️ How It Works
 
 Tasks are stored in tasks.txt.
 
-The app loads tasks when it starts and saves them when you exit.
+The app loads all tasks when it starts.
 
-All operations run in the terminal.
+It automatically saves tasks when you exit.
 
-How to Run
+All actions run through the terminal menu.
 
-Open terminal inside the project folder.
+▶️ How to Run
+
+Open the terminal inside the project folder.
 
 Run:
 
 python todo.py
 
-Files
+📁 Files
 
-todo.py main program
+todo.py – Main program
 
-tasks.txt generated automatically
+tasks.txt – Auto-generated task storage file
 
-Sample Menu
+🧾 Sample Menu
 ===== TO-DO LIST MENU =====
 1. View Tasks
 2. Add Task
@@ -47,7 +49,7 @@ Sample Menu
 5. Clear All Tasks
 6. Exit
 
-Screenshots
+📸 Screenshots
 
 Add your screenshots here using markdown:
 
